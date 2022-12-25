@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Anjaneya
+
+- 🔭 I’m currently working on trying to create an Instagram Clone,
+- 🌱 I’m currently learning how to create interactive projects in MATLAB,
+- 📫 To reach me and learn about a couple of other things I am working on check out my website [HERE]()!
 
 <!--
 **sudenanjaneya/sudenanjaneya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
