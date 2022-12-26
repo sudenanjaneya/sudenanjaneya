@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on trying to create a Crypto Tracker,
 - 🌱 I’m currently learning how to create interactive projects in MATLAB,
+- ⚡ Take a look around and checkout some of the projects I have worked on and am working on!
 
 <!--
 **sudenanjaneya/sudenanjaneya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
